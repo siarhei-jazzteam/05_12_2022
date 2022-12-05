@@ -30,7 +30,8 @@
       "sections": [
         {
           "name": "elektrostatyka",
-          "complexity": "cztery"
+          "complexity": "cztery",
+          "interest": "five"
         }
       ]
     }

@@ -1,0 +1,18 @@
+---
+my:
+  cake:
+    composition:
+      dough:
+      - jajka
+      - cukier
+      - mąka
+      cream:
+      - cukier
+      - mleko
+    dough:
+    - jajka
+    - cukier
+    - mąka
+    cream:
+    - cukier
+    - mleko

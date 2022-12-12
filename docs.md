@@ -87,9 +87,9 @@ TensorFlow uses a few customizations to the builtin doctest logic:
 - _Use symbols_: In DocTest you can directly access symbols defined in the
   same file. To use a symbol that’s not defined in the current file, please
   use TensorFlow’s public API `tf.xxx` instead of `xxx`. As you can see in the
-  example below, <code>random.normal</code> is accessed via
-  <code>;tf.random.normal</code>. This is because
-  <code>;random.normal;</code> is not visible in `NewLayer`.
+  example below, <code>&#96;random.normal&#96;</code> is accessed via
+  <code>&#96;tf.random.normal&#96;</code>. This is because
+  <code>&#96;random.normal&#96;</code> is not visible in `NewLayer`.
 
   ```
   def NewLayer():

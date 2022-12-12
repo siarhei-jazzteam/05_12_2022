@@ -84,7 +84,3 @@ TensorFlow uses a few customizations to the builtin doctest logic:
   see multi-line blocks below.
 - _Globals_: The <code>&#96;tf&#96;</code>, `np` and `os` modules are always
   available in TensorFlow's DocTest.
-- _Use symbols_: In DocTest you can directly access symbols defined in the
-  same file. To use a symbol that’s not defined in the current file, please
-  use TensorFlow’s public API `tf.xxx` instead of `xxx`. As you can see in the
-  example below, <code>&#96;random.normal&#96;</code> is accessed via

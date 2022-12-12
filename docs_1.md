@@ -44,3 +44,6 @@ def concat(values, axis, name="concat"):
 Note: TensorFlow DocTest uses TensorFlow 2 and Python 3.
 
 ### Make the code testable with DocTest
+
+Currently, many docstrings use backticks (```) to identify code. To make the
+code testable with DocTest:

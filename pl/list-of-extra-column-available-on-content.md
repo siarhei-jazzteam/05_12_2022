@@ -10,7 +10,7 @@ Domyślnie edytor treści zawiera następujące 3 pola:
 - Data
 - Tytuł
 
-[](https://diverta.gyazo.com/58ffd2e6c2f2cc9ae7026d9f72ea8b65)![Image from Gyazo](https://t.gyazo.com/teams/diverta/58ffd2e6c2f2cc9ae7026d9f72ea8b65.png)
+[](https://diverta.gyazo.com/58ffd2e6c2f2cc9ae7026d9f72ea8b65)![Zdjęcie z Gyazo](https://t.gyazo.com/teams/diverta/58ffd2e6c2f2cc9ae7026d9f72ea8b65.png)
 
 Możesz skonfigurować dodatkowe pola za pomocą edytora struktury treści.
 

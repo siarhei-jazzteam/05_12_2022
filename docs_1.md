@@ -41,4 +41,6 @@ def concat(values, axis, name="concat"):
   <code here>
 ```
 
+Note: TensorFlow DocTest uses TensorFlow 2 and Python 3.
+
 ### Make the code testable with DocTest

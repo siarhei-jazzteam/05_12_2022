@@ -10,13 +10,13 @@ Domyślnie edytor treści zawiera następujące 3 pola:
 - Data
 - Tytuł
 
-[](https://diverta.gyazo.com/58ffd2e6c2f2cc9ae7026d9f72ea8b65)
+[](https://diverta.gyazo.com/58ffd2e6c2f2cc9ae7026d9f72ea8b65)![Image from Gyazo](https://t.gyazo.com/teams/diverta/58ffd2e6c2f2cc9ae7026d9f72ea8b65.png)
 
 Możesz skonfigurować dodatkowe pola za pomocą edytora struktury treści.
 
 Zobacz [Struktura zawartości — elementy rozszerzone,](/docs/management/content-structure-topics-group/#extended-items) aby zapoznać się ze szczegółowym przewodnikiem.
 
-[](https://diverta.gyazo.com/4d054a9b6a1b59344039b26dd344fd79)
+[](https://diverta.gyazo.com/4d054a9b6a1b59344039b26dd344fd79)![Image from Gyazo](https://t.gyazo.com/teams/diverta/4d054a9b6a1b59344039b26dd344fd79.png)
 
 Rozszerzone elementy można również skonfigurować, klikając „Ustawienia”, aby otworzyć ekran ustawień, w którym można ustawić ograniczenia wprowadzania i wyświetlaną zawartość.また 、 拡張 項目 は [設定] を クリック し て 設定 画面 を 開く と 、 入力 制限 や 表示 さ せる 内容 を 設定 する ことができ ます。
 
@@ -26,23 +26,7 @@ Rozszerzone elementy można również skonfigurować, klikając „Ustawienia”
 
 ## 拡張項目一覧
 
-[テキスト](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88)
-[テキストエリア](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%AA%E3%82%A2)
-[選択形式](#%E9%81%B8%E6%8A%9E%E5%BD%A2%E5%BC%8F)
-[画像](#%E7%94%BB%E5%83%8F)
-[複数選択(チェックボックス)](#%E8%A4%87%E6%95%B0%E9%81%B8%E6%8A%9E%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
- [Wysiwyg](#wysiwyg)
-[リンク](#%E3%83%AA%E3%83%B3%E3%82%AF)
-[日付フォーマット](#%E6%97%A5%E4%BB%98%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88)
-[ファイル](#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)
-[表組(テーブル)](#%E8%A1%A8%E7%B5%84%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB)
-[地図](#%E5%9C%B0%E5%9B%B3)
-[テキスト(オートコンプリート)](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88)
-[関連情報選択](#%E9%96%A2%E9%80%A3%E6%83%85%E5%A0%B1%E9%81%B8%E6%8A%9E)
-[HTML](#html)
-[マスタ形式](#%E3%83%9E%E3%82%B9%E3%82%BF%E5%BD%A2%E5%BC%8F)
-[ファイルマネージャ](#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3)
-[GCS 上のファイル](#gcs%E4%B8%8A%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)
+[テキスト](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88) [テキストエリア](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%A8%E3%83%AA%E3%82%A2) [選択形式](#%E9%81%B8%E6%8A%9E%E5%BD%A2%E5%BC%8F) [画像](#%E7%94%BB%E5%83%8F) [複数選択(チェックボックス)](#%E8%A4%87%E6%95%B0%E9%81%B8%E6%8A%9E%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9) [Wysiwyg](#wysiwyg) [リンク](#%E3%83%AA%E3%83%B3%E3%82%AF) [日付フォーマット](#%E6%97%A5%E4%BB%98%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88) [ファイル](#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB) [表組(テーブル)](#%E8%A1%A8%E7%B5%84%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB) [地図](#%E5%9C%B0%E5%9B%B3) [テキスト(オートコンプリート)](#%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%82%AA%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88) [関連情報選択](#%E9%96%A2%E9%80%A3%E6%83%85%E5%A0%B1%E9%81%B8%E6%8A%9E) [HTML](#html) [マスタ形式](#%E3%83%9E%E3%82%B9%E3%82%BF%E5%BD%A2%E5%BC%8F) [ファイルマネージャ](#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3) [GCS 上のファイル](#gcs%E4%B8%8A%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)
 
 <!--[APIフィールド](#apiフィールド)-->
 

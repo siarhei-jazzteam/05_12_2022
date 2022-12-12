@@ -84,3 +84,4 @@ TensorFlow uses a few customizations to the builtin doctest logic:
   see multi-line blocks below.
   - _Globals_: The, `np` and `os` modules are always
   available in TensorFlow's DocTest.
+  <code>&#96;tf.random.normal&#96;</code>. This is because

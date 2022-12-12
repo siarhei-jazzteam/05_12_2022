@@ -9,7 +9,7 @@ brackets). For example, here's a excerpt from the `tf.concat` function in the
 [array_ops.py](https://www.tensorflow.org/code/tensorflow/python/ops/array_ops.py)
 source file:
 
-```
+ <code>
 def concat(values, axis, name="concat"):
   """Concatenates tensors along one dimension.
   ...
@@ -39,7 +39,7 @@ def concat(values, axis, name="concat"):
   """
 
   <code here>
-```
+ </code>
 
 Note: TensorFlow DocTest uses TensorFlow 2 and Python 3.
 

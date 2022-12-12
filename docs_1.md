@@ -82,3 +82,5 @@ TensorFlow uses a few customizations to the builtin doctest logic:
   DocTest documentation. If the output exceeds the 80 line limit, you can put
   the extra output on the new line and DocTest will recognize it. For example,
   see multi-line blocks below.
+  - _Globals_: The <code>&#96;tf&#96;</code>, `np` and `os` modules are always
+  available in TensorFlow's DocTest.

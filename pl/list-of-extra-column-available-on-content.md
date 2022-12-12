@@ -16,7 +16,7 @@ Możesz skonfigurować dodatkowe pola za pomocą edytora struktury treści.
 
 Zobacz [Struktura zawartości — elementy rozszerzone,](/docs/management/content-structure-topics-group/#extended-items) aby zapoznać się ze szczegółowym przewodnikiem.
 
-[](https://diverta.gyazo.com/4d054a9b6a1b59344039b26dd344fd79)![Zdjęcie z Gyazo](https://t.gyazo.com/teams/diverta/4d054a9b6a1b59344039b26dd344fd79.png)
+[](https://diverta.gyazo.com/4d054a9b6a1b59344039b26dd344fd79)
 
 Rozszerzone elementy można również skonfigurować, klikając „Ustawienia”, aby otworzyć ekran ustawień, w którym można ustawić ograniczenia wprowadzania i wyświetlaną zawartość.また 、 拡張 項目 は [設定] を クリック し て 設定 画面 を 開く と 、 入力 制限 や 表示 さ せる 内容 を 設定 する ことができ ます。
 

@@ -6,7 +6,6 @@
 				{
 					"name": "Kinematics",
 					"complexity": "average",
-					"between_average_great": "average_great",
 					"interest": "great",
 					"bool": true
 
@@ -22,7 +21,6 @@
 				}
 			]
 		},
-		
 			{
 			 	"note": "addition",
 			 	"useful links": 

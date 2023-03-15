@@ -46,3 +46,8 @@ msgstr ""
 msgid "AMP for Email Specification"
 msgstr ""
 
+msgid ""
+"Line 1\n"
+"Line 2\n"
+"Line 3"
+
